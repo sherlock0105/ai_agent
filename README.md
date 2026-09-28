@@ -1,4 +1,6 @@
-# Dohyun AI Workspace
+# Dohyun AI Workspace · 개인 학습
+
+AI 에이전트와 외부 서비스 연동을 공부하기 위한 개인 학습 프로젝트입니다.
 
 개인 일정과 할 일을 한곳에서 보고, AI가 Google Calendar를 읽어 브리핑과 새 일정 제안을 만드는 웹앱입니다.
 
